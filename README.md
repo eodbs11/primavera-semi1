@@ -74,22 +74,3 @@
         <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </div>
 </div>
-
-## 2. 설계 및 분석
-
-### (1) 요구사항 분석
-### (2) 논리적 모델링 (ERD)
-
-### (3) 물리적 모델링 
-### (4) VO
-### (5) 프로젝트 구조
-
-## 3. UI 및 기능 구현
-
-### (1) UI 화면 구성
-### (2) 기능 (코드리뷰)
-
-## 4. 마무리
-
-### (1) 느낀 점
-### (2) 개선하고 싶은 점
