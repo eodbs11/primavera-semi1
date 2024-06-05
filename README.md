@@ -1,6 +1,6 @@
 # PPT 링크
 
-<a href="/Primavera.pdf">포트폴리오</a>
+<a href="/Primavera.pdf">포트폴리오 PPT</a>
 
 
 
